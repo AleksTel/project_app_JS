@@ -83,11 +83,6 @@ if (personalMovieDB.count < 10) {
     console.log('Произошла ошибка');
 }
 
-
-
-
-
-
 // personalMovieDB.movies[a] = b;
 // personalMovieDB.movies[c] = d;
 
